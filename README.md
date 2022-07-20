@@ -1,1 +1,1 @@
-# distance-mesuring-divice-by-lcd-no-penetrometer
+# distance-mesuring-divice-by-lcd-no-potentiometer
